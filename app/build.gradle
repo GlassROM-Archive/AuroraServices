@@ -7,7 +7,7 @@ android {
         multiDexEnabled true
 
         applicationId "com.aurora.services"
-        minSdkVersion 21
+        minSdkVersion 29
         targetSdkVersion 29
         versionCode 6
         versionName "1.0.6"
